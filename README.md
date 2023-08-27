@@ -26,9 +26,9 @@ Vitality is a comprehensive Discord bot coded in **Python** aiming to enhance us
 ## 🔗 Installation & Use
 
 1. Clone this repository to your local machine.
-2. Install the necessary Python libraries using `pip install -r requirements.txt`.
-3. Configure your SQL database connection in the configuration file.
-4. Run `main.py` to initiate the bot.
+2. Generate a bot token and replace `TOKEN` with your token in `vitality.py`.
+3. Configure your SQL database connection in the `vitality.py` file.
+4. Run `vitality.py` to initiate the bot.
 
 ## 🤝 Contributions
 
