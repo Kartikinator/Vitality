@@ -41,19 +41,15 @@ Vitality is a robust and feature-rich Discord bot developed in Python to provide
 
 1. Clone the repository
    ```
-   git clone https://github.com/[your-github-username]/vitality-discord-bot.git
+   git clonehttps://github.com/Kartikinator/Vitality.git
    ```
 
-2. Install the required dependencies:
-   ```
-   pip install -r requirements.txt
-   ```
 
-3. Set up your `.env` file with necessary credentials such as your bot token.
+2. Replace `TOKEN` with your bot token in `vitality.py`.
 
-4. Run the bot:
+3. Run the bot:
    ```
-   python vitality_bot.py
+   python vitality.py
    ```
 
 ## Contributing 🤝
